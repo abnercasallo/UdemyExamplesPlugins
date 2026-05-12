@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Gestión de estándares visuales unificados para documentos Office: aplica temáticas consistentes entre PowerPoint, Word y Excel, y genera documentos desde plantillas por dominio (finanzas, marketing, ventas, RRHH).",
   "author": {
-    "name": "Abner"
+    "name": "Abner Casallo"
   },
-  "keywords": ["office", "templates", "themes", "powerpoint", "word", "excel", "branding"]
-}
+  "homepage": "https://github.com/abnercasallo/UdemyExamplesPlugins",
+  "repository":
