@@ -1,0 +1,22 @@
+{
+  "name": "udemy-examples-plugins",
+  "owner": {
+    "name": "Abner Casallo",
+    "email": "planetanocode@gmail.com"
+  },
+  "description": "Plugins creados como ejemplos para el curso de Claude en Udemy",
+  "plugins": [
+    {
+      "name": "office-standards",
+      "source": "./office-standards",
+      "description": "Gestión de estándares visuales unificados para documentos Office: aplica temáticas consistentes entre PowerPoint, Word y Excel, y genera documentos desde plantillas por dominio (finanzas, marketing, ventas, RRHH).",
+      "author": {
+        "name": "Abner Casallo",
+        "email": "planetanocode@gmail.com"
+      },
+      "homepage": "https://github.com/abnercasallo/UdemyExamplesPlugins",
+      "license": "MIT",
+      "keywords": ["office", "templates", "themes", "powerpoint", "word", "excel", "branding"]
+    }
+  ]
+}
